@@ -1,4 +1,4 @@
-I'm an undergraduate studying mathematics and computer science, and I'm primarily interested in algebraic geometry, functional programming, analytical philosophy and military aviation.
+I'm an undergraduate studying mathematics and computer science, and I'm primarily interested in algebraic geometry, functional programming, analytical philosophy, and military aviation.
 <!--
 **OfficialOxide/OfficialOxide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
