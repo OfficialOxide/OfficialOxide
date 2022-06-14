@@ -1,4 +1,4 @@
-I'm an undergraduate studying mathematics and computer science, and I'm primarily interested in algebraic geometry, functional programming, analytical philosophy, and military aviation.
+I'm an undergraduate studying mathematics and computer science, and I'm primarily interested in algebraic geometry, functional programming, analytic philosophy, and military aviation.
 
 languages: haskell, scheme, c, python
 
